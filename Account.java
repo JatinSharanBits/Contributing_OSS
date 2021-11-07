@@ -108,8 +108,24 @@ public int getAdmin() {
 public void setAdmin(int admin) {
 	this.admin = admin;
 }
-   
   
+	// Added Method by priyanka 
+
+private void promptForDepositAmount()
+   {
+      Screen screen = getScreen(); // get reference to screen
+
+      // display the prompt
+      screen.CreateDepositGUI(); // receive input of deposit amount
+      screen.Mainframe.add( keypad.addkeypad(), BorderLayout.CENTER);
+      Depositcheck check1 = new Depositcheck();  
+      keypad.BEnter.addActionListener( check1 );
+      screen.Mainframe.revalidate();
+      // check whether the user cancelled or entered a valid amount
+      
+          // return dollar amount 
+      } // end else
+   // end method promptForDepositAmount
    
 } // end class Account
 
