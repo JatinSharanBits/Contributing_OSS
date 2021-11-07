@@ -33,10 +33,10 @@ Distributed under the MIT License. See _LICENSE.txt_ for more information.
 
 # Contacts
 
-Ankit Sachan(2020mt93508@wilp.bits-pilani.ac.in)
-Jatin Sharan 2020mt93069@wilp.bits-pilani.ac.in
-Shalini Jha (2020mt93067@wilp.bits-pilani.ac.in)
-Priyanka Pandey (2020MT93166@wilp.bits-pilani.ac.in)
+- Ankit Sachan(2020mt93508@wilp.bits-pilani.ac.in)
+- Jatin Sharan 2020mt93069@wilp.bits-pilani.ac.in
+- Shalini Jha (2020mt93067@wilp.bits-pilani.ac.in)
+- Priyanka Pandey (2020MT93166@wilp.bits-pilani.ac.in)
 
 Project Link: https://ankitsachan.github.io/Contributing_OSS/
 
