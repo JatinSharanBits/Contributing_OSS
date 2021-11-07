@@ -393,7 +393,20 @@ public static ATM getinstance() {
 	return uniqueinstance;
 }
 
-
+//Method added by Shalini
+//Method to add deposit amount in the balance	
+private class Depositcheck implements ActionListener
+   {
+      public void actionPerformed( ActionEvent e )
+      {
+   	   
+         double input = Integer.parseInt( screen.Inputfield2.getText() );
+         double amount = input / 100;
+        
+         makedeposit(amount);
+       
+      }
+   }
    }
    
       
