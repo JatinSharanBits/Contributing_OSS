@@ -32,6 +32,7 @@ public class Keypad
    public JButton B0;
    public JButton BClear;
    public JButton BEnter;
+   public JButton CEnter;
    
   
    
