@@ -29,7 +29,7 @@ This is an assignment project contains ATM Transaction Details developed as a pa
 
 
 # License
-Distributed under the MIT License. See _LICENSE.txt_ for more information.
+Distributed under the MIT License. See _LICENSE.txt_ for more information. **
 
 # Contacts
 
