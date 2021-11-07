@@ -44,5 +44,5 @@ Project Link: https://ankitsachan.github.io/Contributing_OSS/
 Below list of sources has been reffered and followed to work on this project.
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [GitHub Pages](https://github.com/othneildrew/Best-README-Template)
-- 
+- [OSS Pages] (https://www.synopsys.com/glossary/what-is-open-source-software.html)
 
